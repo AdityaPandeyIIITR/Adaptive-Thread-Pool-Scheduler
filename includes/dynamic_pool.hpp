@@ -1,6 +1,4 @@
-//
-// Created by ganler-Mac on 2019/7/20.
-//
+
 #pragma once
 
 #include <cstddef>
